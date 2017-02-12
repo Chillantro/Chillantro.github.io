@@ -1,0 +1,31 @@
+body
+{
+    background-color : #41e8b6;
+    color : #fff;
+}
+
+h1, h2, h2 small
+{
+    color: #fff;
+}
+
+.jumbotron
+{
+    background-color: inherit;
+}
+
+.navbar
+{
+    min-height: 62px;
+}
+.navbar-default
+{
+    background-color: #eee;
+    border-color: #f4f4f4;
+}
+
+.navbar-brand
+{
+    height : 62px;
+    padding : 21px 15px;
+}
